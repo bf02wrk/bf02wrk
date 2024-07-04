@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics and programming
 - 🌱 I’m currently learning C++ among other things
 - 💞️ I’m looking to collaborate on open source computer algebra systems
-- 📫 How to reach me 
+- 📫 How to reach me: foxbee02@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: ...
 
